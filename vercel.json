@@ -1,0 +1,5 @@
+{
+  "rootDirectory": "book-app",
+  "buildCommand": "npm run web:build",
+  "outputDirectory": "dist"
+}
