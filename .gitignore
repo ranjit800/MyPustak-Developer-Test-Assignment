@@ -1,0 +1,50 @@
+# Global Git Ignore for Python and Node.js Projects
+
+# ====================
+# Python (Django)
+# ====================
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.pot
+*.pyc
+db.sqlite3
+env/
+.env
+*.pyo
+*.pyd
+*.db
+.DS_Store
+*.egg-info/
+*.migrations/
+
+# VS Code settings
+.vscode/
+
+# Django-specific
+staticfiles/
+media/
+
+# ====================
+# Node (React Native)
+# ====================
+node_modules/
+.expo/
+.expo-shared/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+dist/
+web-build/
+.idea/
+
+# ====================
+# System Files
+# ====================
+*.bak
+*.swp
+*.tmp
+Thumbs.db
+ehthumbs.db
