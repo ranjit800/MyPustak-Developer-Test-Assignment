@@ -130,4 +130,4 @@ This allows the emulator to communicate with your local Django server.
 
 ---
 
-Developed by [Ranjit Jana](https://github.com/ranjit800)
+Developed by [Ranjit Jana]('https://github.com/ranjit800/MyPustak-Developer-Test-Assignment')
